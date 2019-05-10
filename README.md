@@ -18,8 +18,8 @@ Style: Bold
 
 #### Modern
 
-<img src="png/logoface_box_lavender_face.png" width="400"/> <img src="png/logoface_box_lavender.png" width="400"/>
+<img src="png/logoface_box_lavender.png" width="400"/> <img src="png/logoface_box_lavender_face.png" width="400"/>
 
 #### Black & White
 
-<img src="png/logoface_box_black_face.png" width="400"/> <img src="png/logoface_box_black.png" width="400"/>
+<img src="png/logoface_box_black.png" width="400"/> <img src="png/logoface_box_black_face.png" width="400"/>
