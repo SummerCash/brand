@@ -22,4 +22,4 @@ Style: Bold
 
 #### Black & White
 
-<img src="png/logoface_box_white.png" width="400"/> <img src="png/logoface_box_black.png" width="400"/>
+<img src="png/logoface_box_black_face.png" width="400"/> <img src="png/logoface_box_black.png" width="400"/>
