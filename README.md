@@ -14,4 +14,4 @@ Style: Bold
 
 Classic:
 
-<img src="./png/logoface_box_blue_face.png" size="100"/> <img src="./png/logoface_box_blue.png" size="100"/>
+<img src="png/logoface_box_blue_face.png" width="50"/> <img src="png/logoface_box_blue" width="50"/>
