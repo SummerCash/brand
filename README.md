@@ -14,4 +14,4 @@ Style: Bold
 
 Classic:
 
-![classic foreground](./png/logo_blue_face.png) ![classic background](./png/logo_blue.png)
+![classic foreground](./png/logoface_blue_face.png) ![classic background](./png/logoface_blue.png)
